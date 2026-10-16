@@ -19,3 +19,4 @@ SP500: 21
 @Luc4sESILV ➜ /workspaces/esilv-marketpulse-g05-t01 (lucas-blanchard) $ git branch
 * lucas-blanchard
   main
+edit for second pull request
